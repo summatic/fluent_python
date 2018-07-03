@@ -1,1 +1,1 @@
-# Repository for studying <Fluent Python>
+# Repository for studying \<Fluent Python\>
